@@ -1,0 +1,28 @@
+body
+{
+    background-color: rgb(35, 170, 170);
+}
+
+h2
+{
+    text-align: center;
+    font-weight: lighter;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+table
+{
+    margin: 0 0 auto 0;
+    border-color: black;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    border-color:rgb(25, 0, 255);
+}
+th, td
+{
+    border: 1px solid black;
+}
+td:last-of-type
+{
+    text-align: center;
+}
